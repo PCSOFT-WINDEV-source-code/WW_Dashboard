@@ -1,0 +1,145 @@
+Honolulu	-12
+Philadelphia	-6
+Zagreb	0
+Tashkent	3
+Anchorage	-10
+New York	-6
+Vienna	0
+Islamabad	3
+Vancouver	-9
+Montreal	-6
+Stockholm	0
+Lahore	3
+San Francisco	-9
+Boston	-6
+Cape Town	0
+Mumbai	3
+Seattle	-9
+Santo Domingo	-6
+Budapest	0
+New Dehli	3
+Los Angeles	-9
+La Paz	-6
+Belgrade	0
+Bangalore	3
+Las Vegas	-9
+San Juan	-6
+Warsaw	0
+Kolkata	3
+Phoenix	-9
+Santiago	-5
+Johannesburg	0
+Kathmandu	4
+Calgary	-8
+Halifax	-5
+Harare	0
+Almaty	4
+Edmonton	-8
+Buenos Aires	-5
+Cairo	0
+Dhaka	4
+Salt Lake City	-8
+Asuncion	-5
+Sofia	1
+Yangon	4
+Denver	-8
+St. John's	-5
+Athens	1
+Bangkok	5
+Guatemala	-8
+Montevideo	-4
+Tallinn	1
+Hanoi	5
+San Salvador	-8
+Brasilia	-4
+Helsinki	1
+Jakarta	5
+Tegucigalpa	-8
+São Paulo	-4
+Bucharest	1
+Kuala Lumpur	6
+Managua	-8
+Rio de Janeiro	-4
+Minsk	1
+Singapore	6
+Mexico City	-7
+Reykjavik	-2
+Istanbul	1
+Hong Kong	6
+Winnipeg	-7
+Accra	-2
+Kyiv	1
+Perth	6
+Dallas	-7
+Lisbon	-1
+Khartoum	1
+Beijing	6
+Houston	-7
+Casablanca	-1
+Ankara	1
+Manila	6
+Minneapolis	-7
+Dublin	-1
+Jerusalem	1
+Shanghai	6
+New Orleans	-7
+London	-1
+Beirut	1
+Taipei	6
+Chicago	-7
+Algiers	-1
+Amman	1
+Seoul	7
+Lima	-7
+Lagos	-1
+Nairobi	1
+Tokyo	7
+Kingston	-7
+Kinshasa	-1
+Addis Abeba	1
+Darwin	7.5
+Bogota	-7
+Madrid	0
+Dar es Salaam	1
+Brisbane	8
+Caracas	-7
+Barcelona	0
+Baghdad	1
+Adelaide	8.5
+Indianapolis	-6
+Paris	0
+Riyadh	1
+Melbourne	9
+Atlanta	-6
+Brussels	0
+Antananarivo	1
+Canberra	9
+Detroit	-6
+Amsterdam	0
+Kuwait	1
+Sydney	9
+Columbus	-6
+Zürich	0
+Doha	1
+Anadyr	10
+Havana	-6
+Frankfurt	0
+Karaj	1
+Suva	10
+Miami	-6
+Oslo	0
+Tehran	1
+Auckland	11
+Toronto	-6
+Rome	0
+Moscow	2
+Kiritimati	12
+Nassau	-6
+Copenhagen	0
+Dubai	2
+Washington	-6
+Berlin	0
+Kabul	2
+Ottawa	-6
+Prague	0
+Karachi	3
